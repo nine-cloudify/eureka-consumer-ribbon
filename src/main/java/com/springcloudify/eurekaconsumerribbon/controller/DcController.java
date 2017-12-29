@@ -1,4 +1,4 @@
-package com.spintcloudify.eurekaconsumerribbon.controller;
+package com.springcloudify.eurekaconsumerribbon.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.spintcloudify.eurekaconsumerribbon;
+package com.springcloudify.eurekaconsumerribbon;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
