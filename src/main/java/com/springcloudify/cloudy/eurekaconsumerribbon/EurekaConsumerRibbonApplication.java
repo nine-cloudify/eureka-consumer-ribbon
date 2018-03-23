@@ -1,4 +1,4 @@
-package com.springcloudify.eurekaconsumerribbon;
+package com.springcloudify.cloudy.eurekaconsumerribbon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
