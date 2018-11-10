@@ -1,8 +1,7 @@
-package com.springcloudify.cloudy.eurekaconsumerribbon;
+package com.springcloudify.cloudify.eurekaconsumerribbon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringCloudApplication
 public class EurekaConsumerRibbonApplication {

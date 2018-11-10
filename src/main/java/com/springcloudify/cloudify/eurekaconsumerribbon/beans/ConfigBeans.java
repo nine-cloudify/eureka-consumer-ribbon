@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.eurekaconsumerribbon.beans;
+package com.springcloudify.cloudify.eurekaconsumerribbon.beans;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

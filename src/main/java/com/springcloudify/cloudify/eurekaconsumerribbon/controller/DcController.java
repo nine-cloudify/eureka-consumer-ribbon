@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.eurekaconsumerribbon.controller;
+package com.springcloudify.cloudify.eurekaconsumerribbon.controller;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Autowired;
